@@ -65,5 +65,3 @@ npm start
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
-
-You can save this markdown content into a `README.md` file in your project directory. Feel free to customize it further based on your project's specific details and requirements.
