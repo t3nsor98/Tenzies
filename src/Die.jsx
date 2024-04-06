@@ -8,6 +8,7 @@ export default function Die(props) {
   return (
     <div onClick={props.holdDice} className="die-face" style={dieStyle}>
       <h2 className="die-num">{props.value}</h2>
+      {/* <Dice onRoll={(value) => console.log(value)} size={50} /> */}
     </div>
   );
 }
